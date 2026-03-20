@@ -31,8 +31,8 @@ Arquivos principais:
 
 Arquivos adicionais:
 
-* `minha-evidencia-1.png` → Execução com sucesso (entrada válida)
-* `minha-evidencia-2.png` → Execução com erro tratado (entrada inválida)
+* `minha-evidencia-1.PNG` → Execução com sucesso (entrada válida)
+* `minha-evidencia-2.PNG` → Execução com erro tratado (entrada inválida)
 
 Framework utilizado:
 
